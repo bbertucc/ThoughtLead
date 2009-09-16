@@ -295,12 +295,12 @@ a,
 				#sidebar ul.modules li.nav_sep ul li {background-image: url(images/template/mod_nav_sep_bg.gif);}
 
 		#sidebar ul.modules li.cta {
-			color: #009900;
 			background-image: url(images/template/mod_cta_top_bg.gif);
 		}
 			#sidebar ul.modules li.cta .content {background-image: url(images/template/mod_cta_bottom_bg.gif);}
-			#sidebar ul.modules li.cta .content h4.get_free { color:#009900; font-size:16px; margin-bottom:30px;}
+			#sidebar ul.modules li.cta .content h4.get_free { font-size:16px; margin-bottom:30px;}
 			#sidebar ul.modules li.cta .content h4.get_premium {background-image: url(images/headlines/h4_getpremium_bg.gif);}
+			#sidebar ul.modules li.cta .content a { color: #1671B8}
 
 		#sidebar ul.modules li.outline {}
 			#sidebar ul.modules li.outline ul {}
@@ -312,7 +312,6 @@ a,
 						#sidebar ul.modules li.outline ul li ul li,
 						#sidebar ul.modules li.outline ul li ul li.active {background-image: url(images/template/mod_out_subitem_bg.gif);}
 							#sidebar ul.modules li.outline ul li ul li a.active span {
-								color: #009900;
 								background-color: #0f4b7b;
 							}
 
